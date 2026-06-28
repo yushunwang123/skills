@@ -1,6 +1,14 @@
 ---
 name: skill-critic
-description: Acts as an expert critical reviewer for Agent Skills — at the plan stage (before you write) and the draft stage (after). Its first question is whether the Skill should exist at all. Scores six dimensions Pass/Weak/Fail and returns a go/no-go verdict (create / don't create / merge into another / ship / revise), not a numeric grade. Use when reviewing, auditing, gatekeeping, or deciding whether to build a Skill, or when vetting a SKILL.md, a draft, or a plan for one. Companion to create-skill: this reviews and blocks, it does not author.
+description: >
+  Acts as an expert critical reviewer for Agent Skills — at the plan stage
+  (before you write) and the draft stage (after). Its first question is whether
+  the Skill should exist at all. Scores six dimensions Pass/Weak/Fail and
+  returns a go/no-go verdict (create / don't create / merge into another / ship
+  / revise), not a numeric grade. Use when reviewing, auditing, gatekeeping, or
+  deciding whether to build a Skill, or when vetting a SKILL.md, a draft, or a
+  plan for one. Companion to create-skill: this reviews and blocks, it does not
+  author.
 ---
 
 # Skill Critic
